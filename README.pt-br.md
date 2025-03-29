@@ -7,7 +7,7 @@ Imagine poder **desbloquear conquistas** enquanto joga no seu **NES original**, 
 
 ---
 
--> **Voce pode fazer o seu agora mesmo!** <- Todo o código, esquemas de circuito, tudo está compartilhado [aqui](https://github.com/odelot/nes-ra-adapter-temp/blob/main/README.pt-br.md)! 
+-> **Voce pode fazer o seu agora mesmo!** <- Todo o código, esquemas de circuito, tudo está compartilhado [aqui](https://github.com/odelot/nes-ra-adapter/blob/main/README.pt-br.md)! 
 
 **Quer ajudar?**
 
