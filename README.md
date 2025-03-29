@@ -28,7 +28,7 @@ Imagine being able to **unlock achievements** while playing on your **original N
 - **Duration:** 1 month - April
 - **Progress**:
 <p align="center">
-  <img width="400px" height="75px" src="https://geps.dev/progress/7"/>
+  <img width="400px" height="75px" src="https://geps.dev/progress/10"/>
 </p>
 
 **Want to donate?** click on the buttons below
