@@ -33,7 +33,7 @@ Imagine poder **desbloquear conquistas** enquanto joga no seu **NES original**, 
 
 **Quer doar?** Clique nos botões abaixo
 
-- [![Vakinha](https://github.com/odelot/nes-ra-adapter-donation-campaign/blob/main/images/botaoVakinha.png)](https://www.vakinha.com.br/vaquinha/ajuda-para-continuar-com-o-projeto-do-adaptador-de-conquistas-para-o-nintendinho) - **Para brasileiros**
+- [![Vakinha](https://github.com/odelot/nes-ra-adapter-donation-campaign/blob/main/images/botaoVakinha.png)](https://www.vakinha.com.br/vaquinha/ajuda-para-continuar-com-o-projeto-do-adaptador-de-conquistas-para-o-nintendinho) - **Para brasileiros** - PIX: `5390519@vakinha.com.br`
 - [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/nes.ra.adapter) - **Para estrangeiros** (não brasileiros)
 
 ## Nossa Jornada e Desafios
