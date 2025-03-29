@@ -107,7 +107,7 @@ Já encontramos alguns desafios durante o desenvolvimento:
 
 Queremos manter a comunidade envolvida e informada durante todo o processo de desenvolvimento. Por isso:
 
-- Teremos um **canal no Discord** para dúvidas, feedbacks e atualizações. [Junte-se ao canal](https://discord.gg/9atpm3BR)
+- Teremos um **canal no Discord** para dúvidas, feedbacks e atualizações. [Junte-se ao canal](https://discord.gg/baM7y3xbsA)
 
 - Uma **seção de FAQ** será disponibilizada à medida que as dúvidas surgirem.
 
