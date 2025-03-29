@@ -120,7 +120,7 @@ We’ve already encountered a few challenges during development:
 
 We want to keep the community engaged and informed throughout the development process. Therefore:
 
-- We’ll be hosting a **Discord channel** where you can ask questions, share feedback, and stay updated. [Join the Channel](https://discord.gg/9atpm3BR)
+- We’ll be hosting a **Discord channel** where you can ask questions, share feedback, and stay updated. [Join the Channel](https://discord.gg/baM7y3xbsA)
 
 - A **FAQ section** will be available here as soon as the questions arrives.
 
