@@ -28,7 +28,7 @@ Imagine poder **desbloquear conquistas** enquanto joga no seu **NES original**, 
 - **Duração** 1 mês - Abril
 - **Progresso:**
 <p align="center">
-  <img width="400px" height="75px" src="https://geps.dev/progress/17"/>
+  <img width="400px" height="75px" src="https://geps.dev/progress/20"/>
 </p>
 
 **Quer doar?** Clique nos botões abaixo
