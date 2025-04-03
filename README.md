@@ -29,6 +29,8 @@ Imagine being able to **unlock achievements** while playing on your **original N
 - **Progress**:
 <p align="center">
   <img width="400px" height="75px" src="https://geps.dev/progress/23"/>
+  <br/>
+  (89% Vakinha / 11% Buy me a Coffee - updated 2025-04-03)
 </p>
 
 **Want to donate?** click on the buttons below
