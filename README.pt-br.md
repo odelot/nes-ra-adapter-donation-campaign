@@ -28,9 +28,9 @@ Imagine poder **desbloquear conquistas** enquanto joga no seu **NES original**, 
 - **Duração** 1 mês - Abril
 - **Progresso:**
 <p align="center">
-  <img width="400px" height="75px" src="https://geps.dev/progress/23"/>
+  <img width="400px" height="75px" src="https://geps.dev/progress/24"/>
   <br/>
-  (89% Vakinha / 11% Buy me a Coffee - atualizado 2025-04-03)
+  (89% Vakinha / 11% Buy me a Coffee - atualizado 2025-04-06)
 </p>
 
 **Quer doar?** Clique nos botões abaixo
