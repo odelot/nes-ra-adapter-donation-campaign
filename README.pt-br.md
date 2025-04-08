@@ -99,7 +99,7 @@ O dinheiro arrecadado será dividido entre **odelot** e **gh**. Todos os gastos 
 
 Já encontramos alguns desafios durante o desenvolvimento:
 
-- **Testes com diferentes jogos:** Nos testamos o adaptador com cerca de 50 games. Enquanto a maioria funcionou corretamente, dois tiveram problemas. Confira a [pagina de compatibilidade](https://github.com/odelot/nes-ra-adapter-donation-campaign/blob/main/Compatibility.md) para ver quais games foram testados e quais tiveram problemas. Nós esperamos melhorar o adaptador para aumentar a compatibilidade.
+- **Testes com diferentes jogos:** Nos testamos o adaptador com cerca de 50 games. Enquanto a maioria funcionou corretamente, dois tiveram problemas. Confira a [pagina de compatibilidade](https://github.com/odelot/nes-ra-adapter/blob/main/Compatibility.md) para ver quais games foram testados e quais tiveram problemas. Nós esperamos melhorar o adaptador para aumentar a compatibilidade.
 
 - **Detecção de frame e reset:** Não conseguimos detectar um frame apenas inspecionando os sinais do cartucho. Utilizamos uma heurística que, até agora, tem mostrado bons resultados, mas não há garantia de que funcione para todas as conquistas. Além disso, a detecção de RESET do console ainda não está implementada, exigindo que o console seja desligado e ligado para reinicialização.
 
