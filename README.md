@@ -122,11 +122,60 @@ We’ve already encountered a few challenges during development:
 
 We want to keep the community engaged and informed throughout the development process. Therefore:
 
-- We’ll be hosting a **Discord channel** where you can ask questions, share feedback, and stay updated. [Join the Channel](https://discord.gg/baM7y3xbsA)
+- We are hosting a **Discord channel** where you can ask questions, share feedback, and stay updated. [Join the Channel](https://discord.gg/baM7y3xbsA)
 
-- A **FAQ section** will be available here as soon as the questions arrives.
+- A **FAQ section** is available below.
 
 - We will continue to **share details about the development process** throughout the campaign (starting in April), including progress updates, challenges faced, and solutions implemented.
+
+### FAQ
+
+- **Q: Are you planning to sell the adapter?**
+- **A**: No. This is a fully open-source, community-driven DIY project.
+<br/>
+
+- **Q: So how can I get one?**
+- **A**: It's a DIY project — you can build it yourself!
+If you're not comfortable doing that, don’t worry: as seen with other open-source projects like the gbInterceptor and the Open Source Cartridge Reader, the community often steps in to produce and sell units for those who don’t want to build their own.
+<br/>
+
+- **Q: Am I allowed to manufacture and sell it?**
+- **A**: Yes! Both the hardware and software licenses allow commercial use.
+Please note that the 3D-printed case files were created using Fusion 360 under a non-commercial license, but they can be redesigned in other software for commercial purposes.
+<br/>
+
+- **Q: Do I need to open my NES to use it?**
+- **A**: Our goal is for it to work like a Game Genie — a plug-and-play adapter that fits between the console and the cartridge, with no need to open the NES. However, current prototypes still require opening the console.
+<br/>
+
+- **Q: Do I need to modify my NES in any way?**
+- **A**: No. The adapter is plug-and-play and doesn’t require any console modification.
+<br/>
+
+- **Q: Do I need to connect it to a computer?**
+- **A**: No! It’s fully self-contained with built-in Wi-Fi.
+If you ever need to configure it, you can do so from your smartphone. All achievement processing is handled onboard.
+<br/>
+
+- **Q: If you’re not selling it and it’s a non-profit project, why are you running a donation campaign?**
+- **A**: Yes, we’re a non-profit initiative. The donation campaign — running only during April — is meant to help cover hardware costs and support design improvements (like adding decoupling capacitors and a proper ground plane).
+Even small donations go a long way in validating our efforts and keeping us motivated. No matter the outcome, we plan to finish the project!
+<br/>
+
+- **Q: Will the adapter work with EverDrives?**
+- **A**: The adapter needs to read the cartridge to identify the game, but when using an EverDrive, it reads the EverDrive’s firmware instead of the game itself. That’s one of the reasons why supporting EverDrives is not currently possible.
+<br/>
+
+- **Q: Will it work with Japanese Famicom systems?**
+- **A**: We haven’t tested with original Japanese consoles yet, but it should work with 72-to-60 pin adapters. Many Japanese games are already mapped on RetroAchievements, and we’ve successfully tested some using a 60-to-72 adapter.
+<br/>
+
+- **Q: Will it work with the Disk System?**
+- **A**: We haven’t tested with the Disk System since we don’t have one. It’s a possible future enhancement if we can get the hardware for testing.
+<br/>
+
+- **Q: Will it work with Brazilian Famiclones?**
+- **A**: We haven’t tested yet. The current prototype has a female slot for the American NES-001. The miniaturized version will feature a male connector compatible with NES-001, NES-101 (top loader), and likely other systems including Brazilian famiclones, possibly with the help of adapters.
 
 ### Schedule
 
