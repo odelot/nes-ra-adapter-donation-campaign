@@ -136,7 +136,7 @@ We want to keep the community engaged and informed throughout the development pr
 
 - **Q: So how can I get one?**
 - **A**: It's a DIY project — you can build it yourself!
-If you're not comfortable doing that, don’t worry: as seen with other open-source projects like the gbInterceptor and the Open Source Cartridge Reader, the community often steps in to produce and sell units for those who don’t want to build their own.
+If you're not comfortable doing that, don’t worry: as seen with other open-source projects like the [GBSControl](https://github.com/ramapcsx2/gbs-control), [GB Interceptor](https://github.com/Staacks/gbinterceptor) and [Open Source Cartridge Reader](https://github.com/sanni/cartreader), the community often steps in to produce and sell units for those who don’t want to build their own.
 <br/>
 
 - **Q: Am I allowed to manufacture and sell it?**
