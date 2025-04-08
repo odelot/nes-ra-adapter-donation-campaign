@@ -123,7 +123,7 @@ Queremos manter a comunidade envolvida e informada durante todo o processo de de
 
 - **P: Como posso conseguir o adaptador?**
 - **R**: É um projeto DIY – você mesmo pode construí-lo!
-Se você não se sente confortável em fazê-lo sozinho, lembre-se de que, assim como outros projetos open-source (como gbInterceptor e Open Source Cartridge Reader), a própria comunidade pode se organizar para fabricar e comercializar o adaptador.
+Se você não se sente confortável em fazê-lo sozinho, lembre-se de que, assim como outros projetos open-source (como [GBSControl](https://github.com/ramapcsx2/gbs-control), [GB Interceptor](https://github.com/Staacks/gbinterceptor) e [Open Source Cartridge Reader](https://github.com/sanni/cartreader)), a própria comunidade pode se organizar para fabricar e comercializar o adaptador.
 <br/>
 
 - **P: Posso fabricar e vender o adaptador?**
