@@ -110,7 +110,7 @@ The money raised will be divided between **odelot** and **gh**. All expenses so 
 
 We’ve already encountered a few challenges during development:
 
-- **Testing with various games**: We've tested the adapter with around 50 games. While the vast majority of games we tested worked correctly, two had issues. Please see the [compatibility page](https://github.com/odelot/nes-ra-adapter-donation-campaign/blob/main/Compatibility.md) to see which games we have tested and which ones we had issues with. We hope to improve the adapter to further increase compatibility.
+- **Testing with various games**: We've tested the adapter with around 50 games. While the vast majority of games we tested worked correctly, two had issues. Please see the [compatibility page](https://github.com/odelot/nes-ra-adapter/blob/main/Compatibility.md) to see which games we have tested and which ones we had issues with. We hope to improve the adapter to further increase compatibility.
 
 - **Detecting a frame and reset**: We are unable to detect a frame just inspecting the signals of the cartridge. We use a heuristic that gave us very good results (until now, we couldn't notice a miss achievement), but it is not guaranteed this will work for all achievements ever created (example: two delta operators in the same achievement could be challenging). If this happens in the future, we can try to improve our heuristics. We also cannot detect a Console RESET yet, so for the adapter to work like an emulator with RetroAchievements, it will be necessary to turn off/on the console.
   
