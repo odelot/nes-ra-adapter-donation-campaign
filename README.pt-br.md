@@ -109,11 +109,47 @@ Já encontramos alguns desafios durante o desenvolvimento:
 
 Queremos manter a comunidade envolvida e informada durante todo o processo de desenvolvimento. Por isso:
 
-- Teremos um **canal no Discord** para dúvidas, feedbacks e atualizações. [Junte-se ao canal](https://discord.gg/baM7y3xbsA)
+- Temos um **canal no Discord** para dúvidas, feedbacks e atualizações. [Junte-se ao canal](https://discord.gg/baM7y3xbsA)
 
-- Uma **seção de FAQ** será disponibilizada à medida que as dúvidas surgirem.
+- Uma **seção de FAQ** está disponibilizada abaixo para responder a perguntas frequentes.
 
 - Compartilharemos detalhes do desenvolvimento e atualizações ao longo da campanha.
+
+### FAQ - Perguntas Frequentes
+
+- **P**: Vocês pretendem vender o adaptador?<br/>
+- **R**: Não. Nosso projeto é uma iniciativa DIY 100% open-source para a comunidade.
+
+- **P**: Como posso conseguir o adaptador?<br/>
+- **R**: É um projeto DIY – você mesmo pode construí-lo!
+Se você não se sente confortável em fazê-lo sozinho, lembre-se de que, assim como outros projetos open-source (como gbInterceptor e Open Source Cartridge Reader), a própria comunidade pode se organizar para fabricar e comercializar o adaptador.
+
+- **P**: Posso fabricar e vender o adaptador?<br/>
+- **R**: Sim! As licenças de software e hardware permitem o uso comercial. Vale notar que os cases 3D foram projetados no Fusion 360 para fins não lucrativos, mas podem ser remodelados futuramente para uso comercial em outros softwares.
+
+- **P**: Preciso abrir meu NES para usar o adaptador?<br/>
+- **R**: Nossa meta é que o adaptador seja plug-and-play, semelhante ao Game Genie, encaixando-se no slot de cartuchos sem necessidade de abrir o console. Entretanto, os protótipos atuais exigem que o NES seja aberto para instalação.
+
+- **P**: Preciso modificar meu NES para utilizar o adaptador?<br/>
+- **R**: Não, ele é plug-and-play e não requer modificações.
+
+- **P**: O adaptador precisa estar conectado a um computador?<br/>
+- **R**: Não! Ele é autossuficiente, contando com conectividade Wi-Fi integrada. A configuração pode ser feita via smartphone, e todo o processamento dos achievements é realizado internamente.
+
+- **P**: Se o projeto é sem fins lucrativos, por que a campanha de doação?<br/>
+- **R**: A campanha, que ocorrerá somente durante o mês de abril, tem como objetivo cobrir os custos de hardware e iterações no design final (como a inclusão de capacitores de desacoplamento, ground plane, etc.). Cada doação, por menor que seja, é crucial para validar e impulsionar nosso esforço. Independentemente do resultado, o projeto será concluído!
+
+- **P**: O adaptador funcionará com everdrives?<br/>
+- **R**: O adaptador precisa ler o cartucho para identifica-lo e, quando usado com everdrive, ele lê o firmware do everdrive e não o jogo. Essa é uma das razões para ser possivel suportar everdrive.
+
+- **P**: O adaptador funcionará com modelos japoneses?<br/>
+- **R**: Ainda não testamos com adaptadores japoneses, mas os primeiros resultados indicam compatibilidade com adaptadores de 72 para 60 pinos. Jogos japoneses já fazem parte do mapeamento do RetroAchievements e já tivemos sucesso em testes com adaptações similares.
+
+- **P**: O adaptador funcionará com Disk System?<br/>
+- **R**: Não testamos com Disk System, pois não dispomos desse hardware. Essa funcionalidade pode ser explorada futuramente, assim que conseguirmos o conjunto necessário para testes.
+
+- **P**: O adaptador funciona com os famiclones brasileiros?<br/>
+- **R**: Nosso protótipo atual possui um slot fêmea compatível com o NES americano (NES-001). A versão miniaturizada terá um conector macho que poderá ser adaptado para uso com o NES-001, NES-101 (top loader) e possivelmente outros consoles, incluindo famiclones, por meio de adaptadores
 
 ### Cronograma
 
