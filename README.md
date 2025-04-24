@@ -28,9 +28,9 @@ Imagine being able to **unlock achievements** while playing on your **original N
 - **Duration:** 1 month - April
 - **Progress**:
 <p align="center">
-  <img width="400px" height="75px" src="https://geps.dev/progress/33"/>
+  <img width="400px" height="75px" src="https://geps.dev/progress/35"/>
   <br/>
-  (81% Vakinha / 19% Buy me a Coffee - updated 2025-04-17)
+  (82% Vakinha / 18% Buy me a Coffee - updated 2025-04-24)
 </p>
 
 **Want to donate?** click on the buttons below
