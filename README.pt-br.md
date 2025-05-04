@@ -7,7 +7,7 @@ Imagine poder **desbloquear conquistas** enquanto joga no seu **NES original**, 
 
 ---
 
--> **Voce pode fazer o seu agora mesmo!** <- Todo o código, esquemas de circuito, tudo está compartilhado [aqui](https://github.com/odelot/nes-ra-adapter-temp/blob/main/README.pt-br.md)! 
+-> **Voce pode fazer o seu agora mesmo!** <- Todo o código, esquemas de circuito, tudo está compartilhado [aqui](https://github.com/odelot/nes-ra-adapter/blob/main/README.pt-br.md)! 
 
 **Quer ajudar?**
 
@@ -28,7 +28,9 @@ Imagine poder **desbloquear conquistas** enquanto joga no seu **NES original**, 
 - **Duração** 1 mês - Abril
 - **Progresso:**
 <p align="center">
-  <img width="400px" height="75px" src="https://geps.dev/progress/7"/>
+  <img width="400px" height="75px" src="https://geps.dev/progress/36"/>
+  <br/>
+  (81% Vakinha / 19% Buy me a Coffee - atualizado 2025-04-30)
 </p>
 
 **Quer doar?** Clique nos botões abaixo
@@ -97,7 +99,7 @@ O dinheiro arrecadado será dividido entre **odelot** e **gh**. Todos os gastos 
 
 Já encontramos alguns desafios durante o desenvolvimento:
 
-- **Testes com diferentes jogos:** Nos testamos o adaptador com cerca de 50 games. Enquanto a maioria funcionou corretamente, dois tiveram problemas. Confira a [pagina de compatibilidade](https://github.com/odelot/nes-ra-adapter-donation-campaign/blob/main/Compatibility.md) para ver quais games foram testados e quais tiveram problemas. Nós esperamos melhorar o adaptador para aumentar a compatibilidade.
+- **Testes com diferentes jogos:** Nos testamos o adaptador com cerca de 50 games. Enquanto a maioria funcionou corretamente, dois tiveram problemas. Confira a [pagina de compatibilidade](https://github.com/odelot/nes-ra-adapter/blob/main/Compatibility.md) para ver quais games foram testados e quais tiveram problemas. Nós esperamos melhorar o adaptador para aumentar a compatibilidade.
 
 - **Detecção de frame e reset:** Não conseguimos detectar um frame apenas inspecionando os sinais do cartucho. Utilizamos uma heurística que, até agora, tem mostrado bons resultados, mas não há garantia de que funcione para todas as conquistas. Além disso, a detecção de RESET do console ainda não está implementada, exigindo que o console seja desligado e ligado para reinicialização.
 
@@ -107,11 +109,57 @@ Já encontramos alguns desafios durante o desenvolvimento:
 
 Queremos manter a comunidade envolvida e informada durante todo o processo de desenvolvimento. Por isso:
 
-- Teremos um **canal no Discord** para dúvidas, feedbacks e atualizações. [Junte-se ao canal](https://discord.gg/9atpm3BR)
+- Temos um **canal no Discord** para dúvidas, feedbacks e atualizações. [Junte-se ao canal](https://discord.gg/baM7y3xbsA)
 
-- Uma **seção de FAQ** será disponibilizada à medida que as dúvidas surgirem.
+- Uma **seção de FAQ** está disponibilizada abaixo para responder a perguntas frequentes.
 
 - Compartilharemos detalhes do desenvolvimento e atualizações ao longo da campanha.
+
+### FAQ - Perguntas Frequentes
+
+- **P: Vocês pretendem vender o adaptador?**
+- **R**: Não. Nosso projeto é uma iniciativa DIY 100% open-source para a comunidade.
+<br/>
+
+- **P: Como posso conseguir o adaptador?**
+- **R**: É um projeto DIY – você mesmo pode construí-lo!
+Se você não se sente confortável em fazê-lo sozinho, lembre-se de que, assim como outros projetos open-source (como [GBSControl](https://github.com/ramapcsx2/gbs-control), [GB Interceptor](https://github.com/Staacks/gbinterceptor) e [Open Source Cartridge Reader](https://github.com/sanni/cartreader)), a própria comunidade pode se organizar para fabricar e comercializar o adaptador.
+<br/>
+
+- **P: Posso fabricar e vender o adaptador?**
+- **R**: Sim! As licenças de software e hardware permitem o uso comercial. Vale notar que os cases 3D foram projetados no Fusion 360 para fins não lucrativos, mas podem ser remodelados futuramente para uso comercial em outros softwares.
+<br/>
+
+- **P: Preciso abrir meu NES para usar o adaptador?**
+- **R**: Nossa meta é que o adaptador seja plug-and-play, semelhante ao Game Genie, encaixando-se no slot de cartuchos sem necessidade de abrir o console. Entretanto, os protótipos atuais exigem que o NES seja aberto para instalação.
+<br/>
+
+- **P: Preciso modificar meu NES para utilizar o adaptador?**
+- **R**: Não, ele é plug-and-play e não requer modificações.
+<br/>
+
+- **P: O adaptador precisa estar conectado a um computador?**
+- **R**: Não! Ele é autossuficiente, contando com conectividade Wi-Fi integrada. A configuração pode ser feita via smartphone, e todo o processamento dos achievements é realizado internamente.
+<br/>
+
+- **P: Se o projeto é sem fins lucrativos, por que a campanha de doação?**
+- **R**: A campanha, que ocorrerá somente durante o mês de abril, tem como objetivo cobrir os custos de hardware e iterações no design final (como a inclusão de capacitores de desacoplamento, ground plane, etc.). Cada doação, por menor que seja, é crucial para validar e impulsionar nosso esforço. Independentemente do resultado, o projeto será concluído!
+<br/>
+
+- **P: O adaptador funcionará com everdrives?**
+- **R**: O adaptador precisa ler o cartucho para identifica-lo e, quando usado com everdrive, ele lê o firmware do everdrive e não o jogo. Essa é uma das razões para ser possivel suportar everdrive.
+<br/>
+
+- **P: O adaptador funcionará com modelos japoneses?**
+- **R**: Ainda não testamos com adaptadores japoneses, mas os primeiros resultados indicam compatibilidade com adaptadores de 72 para 60 pinos. Jogos japoneses já fazem parte do mapeamento do RetroAchievements e já tivemos sucesso em testes com adaptações similares.
+<br/>
+
+- **P: O adaptador funcionará com Disk System?**
+- **R**: Não testamos com Disk System, pois não dispomos desse hardware. Essa funcionalidade pode ser explorada futuramente, assim que conseguirmos o conjunto necessário para testes.
+<br/>
+
+- **P: O adaptador funciona com os famiclones brasileiros?**
+- **R**: Nosso protótipo atual possui um slot fêmea compatível com o NES americano (NES-001). A versão miniaturizada terá um conector macho que poderá ser adaptado para uso com o NES-001, NES-101 (top loader) e possivelmente outros consoles, incluindo famiclones, por meio de adaptadores
 
 ### Cronograma
 
